@@ -1,6 +1,15 @@
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
+## Resposta ao Desafio
+1. Os testes foram ajustados.
+
+2. Testes passando:
+
+![Testes passando](Imagens/testes-desafio-dotnet.png)
+
+3. Adicionado mais 1 teste para ValidacoesListaTests e mais 1 para ValidacoesStringTests.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
 
